@@ -21,11 +21,4 @@ _[https://bit.ly/AZ900GitHub](https://bit.ly/AZ305GitHub)_
 
 
 | Microsoft Learn Full Path
-_[https://bit.ly/AZ900MSLearn](https://bit.ly/AZ900MSLearn)_
-
-
-| Microsoft Learn Sample Questions
-_[https://bit.ly/AZ900SampleQuestions](https://bit.ly/AZ900SampleQuestions)_
-
-AZ-900 Exam Demo Sandbox
-_[https://bit.ly/AZ900ExamDemoSandbox](https://bit.ly/AZ900ExamDemoSandbox)_
+_[https://bit.ly/AZ900MSLearn](https://bit.ly/AZ305MSLearn)_
