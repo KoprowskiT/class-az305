@@ -1,4 +1,4 @@
-# Official page for Microsoft Azure Fundamentals [HERE](https://bit.ly/AZ305MSLearn) describe exam as:
+# Official page for Designing Microsoft Azure Infrastructure Solutions [HERE](https://bit.ly/AZ305MSLearn) describe exam as:
 
 As a Microsoft Azure solutions architect, you have subject matter expertise in designing cloud and hybrid solutions that run on Azure, including:
 - Compute
