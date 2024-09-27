@@ -12,13 +12,13 @@ Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions
 Study guide for Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions
 
 | Microsoft Learn
-_[https://bit.ly/AZ900StudyGuide](https://bit.ly/AZ305StudyGuide)_
+_[https://bit.ly/AZ305StudyGuide](https://bit.ly/AZ305StudyGuide)_
 
 AZ-900 GitHub Materials
 
 | Microsoft Learn GitHub
-_[https://bit.ly/AZ900GitHub](https://bit.ly/AZ305GitHub)_
+_[https://bit.ly/AZ305GitHub](https://bit.ly/AZ305GitHub)_
 
 
 | Microsoft Learn Full Path
-_[https://bit.ly/AZ900MSLearn](https://bit.ly/AZ305MSLearn)_
+_[https://bit.ly/AZ305MSLearn](https://bit.ly/AZ305MSLearn)_
