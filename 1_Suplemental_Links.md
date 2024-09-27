@@ -22,3 +22,22 @@ _[https://bit.ly/AZ305GitHub](https://bit.ly/AZ305GitHub)_
 
 | Microsoft Learn Full Path
 _[https://bit.ly/AZ305MSLearn](https://bit.ly/AZ305MSLearn)_
+
+## Additional Links
+Exam AZ-305: Designing
+
+Microsoft | Embrace Proactive Security with Zero trust
+_[https://bit.ly/ZeroTrust-ArchitectureByMicrosoft](https://bit.ly/ZeroTrust-ArchitectureByMicrosoft)_
+
+Wikipedia | Zero Trust Security Model
+_[https://bit.ly/ZeroTrust-SecurityModel](https://bit.ly/ZeroTrust-SecurityModel)_
+
+SANS Institute | What is Zero Trust Architecture?
+_[https://bit.ly/ZeroTrust-ArchitectureBySANS](https://bit.ly/ZeroTrust-ArchitectureBySANS)_
+
+NCSC | Zero Trust Architecture Design Principles
+_[https://bit.ly/ZeroTrust-ArchitectureByNCSC](https://bit.ly/ZeroTrust-ArchitectureByNCSC)_
+
+Zero Trust Guidance Center | Microsoft Docs
+_[https://bit.ly/MSLearn-ZeroTrustCenter](https://bit.ly/MSLearn-ZeroTrustCenter)_
+
